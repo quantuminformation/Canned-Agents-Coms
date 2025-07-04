@@ -8,3 +8,5 @@ All test must pass GitHub Actions consistently. Do not make and PR that does not
 
 Don't include any binary files in any pull request.
 
+# Adjust according to your UI framework of choice
+Always refer to this when doing styling of components: https://daisyui.com/components/
